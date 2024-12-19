@@ -4,6 +4,7 @@
 
 Config.AttachedKey = 38     -- 38 = E
 Config.AttacheKeyTxt = "E"  -- if AttachedKey = 38 this is E
+Config.Target = "ox_target"
 
 Config.Models = {
     trucks = {'hauler', 'bison', 'sadler'},
